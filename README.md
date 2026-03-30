@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Oscar 👋</h1>
-<h3 align="center">Fullstack Developer · Madrid, Spain</h3>
+<h3 align="center">Fullstack Developer · Las Palmas de Gran Canarias, Spain</h3>
 
 <br/>
 
@@ -20,16 +20,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscarromerosilva&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarromerosilva&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170"/>
-</p>
-
----
-
 ### 🔥 Streak
 
 <p align="center">
@@ -38,18 +28,10 @@
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oscarromerosilva&theme=github_dark&no-frame=true&margin-w=8&row=1" />
-</p>
-
----
-
 ### 📬 Let's connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/oscarromerosilva">
+  <a href="https://linkedin.com/in/oscar-romero-silva">
     <img src="https://img.shields.io/badge/LinkedIn-oscarromerosilva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
 </p>
