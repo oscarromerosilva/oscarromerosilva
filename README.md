@@ -15,7 +15,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,vue,nuxtjs,ts,js,tailwind,nodejs,java,spring,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,ts,js,tailwind,css,nodejs,nestjs,jest,vite&theme=dark" />
 </p>
 
 ---
